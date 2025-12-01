@@ -1,5 +1,5 @@
 # 💫 About Me:
-malware and reverse engineering lover 4+ years experience in financial security breaches.<br>Epitech Student, passionate about computer science and cybersecurity
+not using that much github, contact me on telegram -> @canaxsteal
 
 
 ## 🌐 Socials:
@@ -18,7 +18,3 @@ malware and reverse engineering lover 4+ years experience in financial security 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=silvucani&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
