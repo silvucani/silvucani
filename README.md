@@ -11,7 +11,3 @@ not using that much github, contact me on telegram -> @canaxsteal
 ![](https://github-readme-stats.vercel.app/api?username=silvucani&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=silvucani&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=silvucani&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=silvucani&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
-
