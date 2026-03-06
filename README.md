@@ -1,7 +1,8 @@
 # 💫 About Me:
 I love analysing malware, pentesting ( specially the Red Team ) and LLM, currently in a master degree in cybersecurity :)
 
-Half of my project got rejected from Github :/
+Half of my projects got rejected from Github :/
+The other projects are in private.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/616648096599769089) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:SOON) 
