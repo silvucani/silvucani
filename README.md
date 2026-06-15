@@ -4,6 +4,10 @@ I love analysing malware, pentesting ( specially the Red Team ) and LLM, current
 Half of my projects got rejected from Github :/
 The other projects are in private.
 
+<p align="left">
+  <img src="https://i.ibb.co/60gKmHwT/silvucani-glass-card-2.png" width="450" alt="Silvucani Card" />
+</p>
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/616648096599769089) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:SOON) 
 
